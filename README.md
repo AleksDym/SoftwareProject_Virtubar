@@ -1,4 +1,4 @@
-# SoftwareProject_Vitrubar
+# SoftwareProject_Virtubar
 
 Important: this project was made together with my study partner. As it is a university project that had to be done in limited time, of course the functionality is not full, it is more of a skeleton with basic setup that has a potential for further development. The stress is on backend side, frontend was developed on a primitive level during the last iteration.
 
